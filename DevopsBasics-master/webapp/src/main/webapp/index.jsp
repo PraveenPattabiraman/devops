@@ -1,3 +1,3 @@
 <h1> praveenkumar.com !!! Learning</h1>
 <h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> good evening !!!</h2>
+<h2> good evening to all !!!</h2>
